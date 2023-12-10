@@ -34,6 +34,11 @@ form {
     padding: 1vw 1.67vw;
 }
 
+.title {
+	font-size: 1.5vw;
+	font-weight: 600;
+}
+
 .section input[type="radio"]{
 	width: .75vw;
 	height: .75vw;
