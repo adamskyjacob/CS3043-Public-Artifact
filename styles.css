@@ -12,6 +12,9 @@
     --card-small-line-height: calc(var(--card-small-height) / var(--card-line-factor));
 }
 
+h2 {
+	all: unset;
+}
 
 form {
     display: table;
